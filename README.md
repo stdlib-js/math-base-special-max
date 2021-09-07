@@ -137,6 +137,21 @@ for ( i = 0; i < 100; i++ ) {
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/math/base/special/maxabs`][@stdlib/math/base/special/maxabs]: return the maximum absolute value.
+-   [`@stdlib/math/base/special/min`][@stdlib/math/base/special/min]: return the minimum value.
+
+</section>
+
+<!-- /.related -->
+
 <!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 
@@ -193,6 +208,14 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-special-max/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/math/base/special/maxabs]: https://github.com/stdlib-js/math-base-special-maxabs
+
+[@stdlib/math/base/special/min]: https://github.com/stdlib-js/math-base-special-min
+
+<!-- </related-links> -->
 
 </section>
 
