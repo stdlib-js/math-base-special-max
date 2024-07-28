@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import max from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-max@esm/index.mjs';
+import max from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-max@v0.3.0-esm/index.mjs';
 ```
 
 #### max( x, y )
@@ -104,7 +104,7 @@ v = max( NaN, 3.14 );
 <script type="module">
 
 import minstd from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-minstd-shuffle@esm/index.mjs';
-import max from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-max@esm/index.mjs';
+import max from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-max@v0.3.0-esm/index.mjs';
 
 var x;
 var y;
