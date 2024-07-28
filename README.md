@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import max from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-max@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-max/tags). For example,
+
+```javascript
 import max from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-max@v0.3.0-esm/index.mjs';
 ```
 
@@ -104,7 +109,7 @@ v = max( NaN, 3.14 );
 <script type="module">
 
 import minstd from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-minstd-shuffle@esm/index.mjs';
-import max from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-max@v0.3.0-esm/index.mjs';
+import max from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-max@esm/index.mjs';
 
 var x;
 var y;
